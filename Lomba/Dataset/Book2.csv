@@ -1,0 +1,452 @@
+514,Update terakhir,,21 Maret 2020,,Sumber,http://covid-monitoring.kemkes.go.id/,
+No,Gender,Umur,WN,Provinsi,Status,Sumber Kontak,Kelompok Umur
+1,Perempuan,31,WNI,DKI JAKARTA,Sembuh,,30-39
+2,Perempuan,64,WNI,DKI JAKARTA,Sembuh,1,60-69
+3,Perempuan,33,WNI,DKI JAKARTA,Sembuh,1,30-39
+4,Perempuan,34,WNI,DKI JAKARTA,Dalam Perawatan,1,30-39
+5,Laki-Laki,55,WNI,DKI JAKARTA,Dalam Perawatan,1,50-59
+6,Laki-Laki,36,WNI,DKI JAKARTA,Sembuh,,30-39
+7,Perempuan,54,WNI,DKI JAKARTA,Sembuh,8,50-59
+8,Laki-Laki,55,WNI,DKI JAKARTA,Sembuh,,50-59
+9,Perempuan,55,WNI,DKI JAKARTA,Sembuh,11,50-59
+10,Laki-Laki,29,WNA,DKI JAKARTA,Dalam Perawatan,1,20-29
+11,Perempuan,54,WNA,DKI JAKARTA,Dalam Perawatan,1,50-59
+12,Laki-Laki,31,WNI,DKI JAKARTA,Dalam Perawatan,1,30-39
+13,Perempuan,16,WNI,DKI JAKARTA,Sembuh,1,19-Oct
+14,Laki-Laki,50,WNI,DKI JAKARTA,Dalam Perawatan,74,50-59
+15,Perempuan,43,WNI,JAWA BARAT,Dalam Perawatan,74,40-49
+16,Perempuan,17,WNI,JAWA BARAT,Dalam Perawatan,74,19-Oct
+17,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,74,50-59
+18,Laki-Laki,55,WNI,BANTEN,Dalam Perawatan,,50-59
+19,Laki-Laki,40,WNI,DKI JAKARTA,Dalam Perawatan,74,40-49
+20,Perempuan,70,WNI,DKI JAKARTA,Dalam Perawatan,83,70-79
+21,Perempuan,47,WNI,DKI JAKARTA,Dalam Perawatan,1,40-49
+22,Perempuan,36,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+23,Perempuan,73,WNI,DKI JAKARTA,Dalam Perawatan,20,70-79
+24,Laki-Laki,46,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+25,Perempuan,53,WNA,BALI,Meninggal,,50-59
+26,Laki-Laki,46,WNI,DKI JAKARTA,Dalam Perawatan,1,40-49
+27,Laki-Laki,33,WNI,DKI JAKARTA,Dalam Perawatan,1,30-39
+28,Laki-Laki,37,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+29,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+30,Laki-Laki,85,WNI,DKI JAKARTA,Dalam Perawatan,,80-89
+31,Perempuan,48,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+32,Laki-Laki,45,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+33,Laki-Laki,29,WNI,JAWA BARAT,Dalam Perawatan,,20-29
+34,Laki-Laki,52,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+35,Perempuan,57,WNI,BANTEN,Meninggal,,50-59
+36,Perempuan,36,WNI,DKI JAKARTA,Meninggal,,30-39
+37,Laki-Laki,43,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+38,Perempuan,80,WNA,DKI JAKARTA,Dalam Perawatan,,80-89
+39,Laki-Laki,54,WNI,DKI JAKARTA,Meninggal,,50-59
+40,Perempuan,46,WNI,DKI JAKARTA,Dalam Perawatan,71,40-49
+41,Laki-Laki,40,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+42,Laki-Laki,66,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+43,Laki-Laki,34,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+44,Laki-Laki,57,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+45,Perempuan,29,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+46,Perempuan,?,WNA,DKI JAKARTA,Dalam Perawatan,78,?
+47,Laki-Laki,61,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+48,Laki-Laki,35,WNI,BANTEN,Dalam Perawatan,,30-39
+49,Laki-Laki,3,WNI,DI YOGYAKARTA,Dalam Perawatan,,0-9
+50,Laki-Laki,59,WNI,JAWA TENGAH,Meninggal,,50-59
+51,Laki-Laki,60,WNI,JAWA TENGAH,Dalam Perawatan,,60-69
+52,Perempuan,59,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+53,Perempuan,24,WNI,DKI JAKARTA,Dalam Perawatan,22,20-29
+54,Laki-Laki,2,WNI,DKI JAKARTA,Dalam Perawatan,,0-9
+55,Perempuan,26,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+56,Laki-Laki,58,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+57,Perempuan,27,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+58,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+59,Laki-Laki,63,WNI,BANTEN,Dalam Perawatan,,60-69
+60,Perempuan,25,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+61,Perempuan,58,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+62,Laki-Laki,51,WNI,SULAWESI UTARA,Dalam Perawatan,,50-59
+63,Laki-Laki,34,WNI,KALIMANTAN BARAT,Dalam Perawatan,,30-39
+64,Perempuan,49,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+65,Laki-Laki,48,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+66,Laki-Laki,73,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+67,Perempuan,25,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+68,Perempuan,38,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+69,Laki-Laki,80,WNI,DKI JAKARTA,Dalam Perawatan,,80-89
+70,Perempuan,48,WNI,DKI JAKARTA,Dalam Perawatan,1,40-49
+71,Laki-Laki,52,WNI,DKI JAKARTA,Meninggal,1,50-59
+72,Perempuan,65,WNI,DKI JAKARTA,Meninggal,,60-69
+73,Perempuan,70,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+74,Laki-Laki,50,WNI,JAWA BARAT,Meninggal,,50-59
+75,Laki-Laki,64,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+76,Laki-Laki,64,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+77,Laki-Laki,55,WNA,DKI JAKARTA,Dalam Perawatan,,50-59
+78,Perempuan,69,WNA,DKI JAKARTA,Dalam Perawatan,81,60-69
+79,Laki-Laki,36,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+80,Perempuan,65,WNI,JAWA BARAT,Dalam Perawatan,,60-69
+81,Laki-Laki,86,WNA,DKI JAKARTA,Dalam Perawatan,78,80-89
+82,Perempuan,68,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+83,Perempuan,43,WNI,DKI JAKARTA,Dalam Perawatan,1,40-49
+84,Laki-Laki,78,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+85,?,?,?,Tidak diketahui,?,,?
+86,Perempuan,67,WNI,JAWA BARAT,Dalam Perawatan,,60-69
+87,Laki-Laki,66,WNI,DKI JAKARTA,Meninggal,,60-69
+88,Laki-Laki,20,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+89,?,?,?,Tidak diketahui,?,,?
+90,Laki-Laki,31,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+91,Perempuan,42,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+92,Laki-Laki,39,WNI,BANTEN,Dalam Perawatan,,30-39
+93,Laki-Laki,61,WNI,BANTEN,Dalam Perawatan,,60-69
+94,Perempuan,57,WNI,BANTEN,Dalam Perawatan,,50-59
+95,?,?,?,Tidak diketahui,?,,?
+96,?,?,?,Tidak diketahui,?,,?
+97,?,?,?,Tidak diketahui,?,,?
+98,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+99,Laki-Laki,41,WNI,DKI JAKARTA,Meninggal,,40-49
+100,Perempuan,70,WNA,DKI JAKARTA,Dalam Perawatan,,70-79
+101,Laki-Laki,43,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+102,Laki-Laki,39,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+103,Laki-Laki,65,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+104,?,?,?,Tidak diketahui,?,,?
+105,?,?,?,Tidak diketahui,?,,?
+106,Laki-Laki,40,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+107,?,?,?,Tidak diketahui,?,,?
+108,Laki-Laki,27,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+109,Laki-Laki,65,WNI,DKI JAKARTA,Meninggal,,60-69
+110,Perempuan,67,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+111,Laki-Laki,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+112,Perempuan,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+113,Laki-Laki,54,WNI,DKI JAKARTA,Meninggal,,50-59
+114,Laki-Laki,66,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+115,Laki-Laki,29,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+116,Laki-Laki,72,WNI,DKI JAKARTA,Meninggal,,70-79
+117,Laki-Laki,50,WNI,DKI JAKARTA,Meninggal,,50-59
+118,Laki-Laki,43,WNI,JAWA TENGAH,Meninggal,,40-49
+119,Laki-Laki,50,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+120,Laki-Laki,74,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+121,Perempuan,65,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+122,Perempuan,74,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+123,Laki-Laki,36,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+124,Laki-Laki,43,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+125,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+126,Perempuan,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+127,Perempuan,32,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+128,Perempuan,26,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+129,Perempuan,42,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+130,Laki-Laki,40,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+131,?,?,?,Tidak diketahui,?,,?
+132,Perempuan,28,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+133,Perempuan,37,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+134,Perempuan,22,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+135,Perempuan,22,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+136,Laki-Laki,40,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+137,Laki-Laki,30,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+138,Perempuan,34,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+139,Perempuan,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+140,Laki-Laki,71,WNI,KEPULAUAN RIAU,Dalam Perawatan,,70-79
+141,Laki-Laki,22,WNI,JAWA TIMUR,Dalam Perawatan,,20-29
+142,Laki-Laki,50,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+143,Perempuan,28,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+144,?,?,?,Tidak diketahui,?,,?
+145,Laki-Laki,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+146,Perempuan,74,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+147,?,?,?,Tidak diketahui,?,,?
+148,?,?,?,Tidak diketahui,?,,?
+149,Perempuan,45,WNI,JAWA TENGAH,Dalam Perawatan,,40-49
+150,Laki-Laki,55,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+151,?,?,?,Tidak diketahui,?,,?
+152,?,?,?,Tidak diketahui,?,,?
+153,Perempuan,55,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+154,Laki-Laki,70,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+155,Perempuan,72,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+156,Laki-Laki,59,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+157,Laki-Laki,19,WNI,KALIMANTAN BARAT,Dalam Perawatan,,19-Oct
+158,Perempuan,80,WNI,DKI JAKARTA,Dalam Perawatan,,80-89
+159,Laki-Laki,49,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+160,Laki-Laki,52,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+161,Perempuan,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+162,Perempuan,28,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+163,Laki-Laki,34,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+164,Laki-Laki,56,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+165,Perempuan,43,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+166,Laki-Laki,49,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+167,Laki-Laki,48,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+168,Laki-Laki,38,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+169,Perempuan,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+170,Laki-Laki,32,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+171,Laki-Laki,67,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+172,Perempuan,36,WNI,BANTEN,Dalam Perawatan,,30-39
+173,Perempuan,28,WNI,BANTEN,Dalam Perawatan,,20-29
+174,Perempuan,20,WNI,BANTEN,Dalam Perawatan,,20-29
+175,Perempuan,26,WNI,BANTEN,Dalam Perawatan,,20-29
+176,Laki-Laki,56,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+177,Perempuan,43,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+178,Laki-Laki,49,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+179,Laki-Laki,48,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+180,Perempuan,25,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+181,Perempuan,22,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+182,Perempuan,47,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+183,Laki-Laki,28,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+184,Perempuan,63,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+185,Perempuan,60,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+186,Laki-Laki,60,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+187,Laki-Laki,71,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+188,Perempuan,50,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+189,Laki-Laki,39,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+190,Laki-Laki,66,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+191,Perempuan,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+192,Laki-Laki,17,WNI,DKI JAKARTA,Dalam Perawatan,,19-Oct
+193,Laki-Laki,63,WNI,RIAU,Dalam Perawatan,,60-69
+194,Laki-Laki,62,WNI,LAMPUNG,Dalam Perawatan,,60-69
+195,Perempuan,37,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,30-39
+196,Perempuan,60,WNI,JAWA TENGAH,Dalam Perawatan,,60-69
+197,Laki-Laki,27,WNI,JAWA BARAT,Dalam Perawatan,,20-29
+198,Laki-Laki,21,WNI,JAWA BARAT,Dalam Perawatan,,20-29
+199,Perempuan,55,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+200,Laki-Laki,49,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+201,Laki-Laki,31,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+202,Laki-Laki,50,WNI,SUMATERA UTARA,Dalam Perawatan,,50-59
+203,Laki-Laki,83,WNI,DKI JAKARTA,Dalam Perawatan,,80-89
+204,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+205,Laki-Laki,59,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+206,Laki-Laki,55,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+207,Perempuan,?,WNI,JAWA BARAT,Dalam Perawatan,,?
+208,Perempuan,?,WNI,JAWA BARAT,Dalam Perawatan,,?
+209,Perempuan,53,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+210,Laki-Laki,71,WNI,JAWA BARAT,Dalam Perawatan,,70-79
+211,Perempuan,69,WNI,JAWA BARAT,Dalam Perawatan,,60-69
+212,Laki-Laki,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+213,Laki-Laki,24,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+214,Laki-Laki,38,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+215,Laki-Laki,27,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+216,Laki-Laki,?,WNI,DKI JAKARTA,Dalam Perawatan,,?
+217,Laki-Laki,52,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+218,Perempuan,?,WNI,JAWA BARAT,Dalam Perawatan,,?
+219,Perempuan,26,WNI,JAWA BARAT,Dalam Perawatan,,20-29
+220,Perempuan,49,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+221,Perempuan,24,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+222,Perempuan,35,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+223,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+224,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+225,Laki-Laki,65,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+226,Laki-Laki,78,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+227,Laki-Laki,63,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+228,Laki-Laki,50,WNI,DI YOGYAKARTA,Dalam Perawatan,,50-59
+229,Perempuan,49,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+230,Laki-Laki,26,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+231,Laki-Laki,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+232,Perempuan,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+233,Laki-Laki,20,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+234,Laki-Laki,55,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+235,Laki-Laki,60,WNI,DI YOGYAKARTA,Dalam Perawatan,,60-69
+236,Laki-Laki,37,WNI,JAWA TENGAH,Dalam Perawatan,,30-39
+237,Laki-Laki,54,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+238,Laki-Laki,38,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+239,Laki-Laki,64,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+240,Perempuan,28,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,20-29
+241,Laki-Laki,41,WNI,SULAWESI TENGGARA,Dalam Perawatan,,40-49
+242,Laki-Laki,25,WNI,SULAWESI TENGGARA,Dalam Perawatan,,20-29
+243,Perempuan,32,WNI,SULAWESI TENGGARA,Dalam Perawatan,,30-39
+244,Perempuan,1,WNI,DKI JAKARTA,Dalam Perawatan,,0-9
+245,Laki-Laki,25,WNI,BANTEN,Dalam Perawatan,,20-29
+246,Laki-Laki,43,WNI,BANTEN,Dalam Perawatan,,40-49
+247,Perempuan,39,WNI,BANTEN,Dalam Perawatan,,30-39
+248,Laki-Laki,39,WNI,BANTEN,Dalam Perawatan,,30-39
+249,Laki-Laki,40,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+250,Perempuan,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+251,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+252,Perempuan,22,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+253,Laki-Laki,48,WNI,BANTEN,Dalam Perawatan,,40-49
+254,Perempuan,59,WNI,BANTEN,Dalam Perawatan,,50-59
+255,Perempuan,56,WNI,BANTEN,Dalam Perawatan,,50-59
+256,Laki-Laki,60,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+257,Laki-Laki,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+258,Laki-Laki,37,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+259,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+260,Laki-Laki,76,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+261,Laki-Laki,47,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+262,Perempuan,70,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+263,Perempuan,26,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+264,Laki-Laki,32,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+265,Perempuan,52,WNI,KEPULAUAN RIAU,Dalam Perawatan,,50-59
+266,Laki-Laki,45,WNI,KEPULAUAN RIAU,Dalam Perawatan,,40-49
+267,Perempuan,52,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+268,Laki-Laki,50,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+269,Perempuan,47,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+270,Laki-Laki,76,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+271,Laki-Laki,50,WNI,BANTEN,Dalam Perawatan,,50-59
+272,Laki-Laki,47,WNI,BANTEN,Dalam Perawatan,,40-49
+273,Perempuan,48,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+274,Laki-Laki,47,WNI,BANTEN,Dalam Perawatan,,40-49
+275,Perempuan,60,WNI,JAWA TENGAH,Dalam Perawatan,,60-69
+276,Laki-Laki,30,WNI,JAWA TENGAH,Dalam Perawatan,,30-39
+277,Laki-Laki,34,WNI,JAWA TENGAH,Dalam Perawatan,,30-39
+278,Laki-Laki,27,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+279,Perempuan,50,WNI,SUMATERA UTARA,Dalam Perawatan,,50-59
+280,Laki-Laki,44,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,40-49
+281,Laki-Laki,49,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+282,Perempuan,62,WNI,JAWA BARAT,Dalam Perawatan,,60-69
+283,Perempuan,51,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+284,Laki-Laki,63,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+285,Perempuan,55,WNI,SULAWESI SELATAN,Dalam Perawatan,,50-59
+286,Laki-Laki,54,WNI,SULAWESI SELATAN,Dalam Perawatan,,50-59
+287,Laki-Laki,39,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+288,Perempuan,41,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+289,Perempuan,34,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+290,Perempuan,46,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+291,Laki-Laki,36,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+292,Perempuan,42,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+293,Laki-Laki,65,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+294,Laki-Laki,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+295,Perempuan,41,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+296,Laki-Laki,34,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+297,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+298,Perempuan,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+299,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+300,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+301,Laki-Laki,37,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+302,Perempuan,28,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+303,Laki-Laki,37,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+304,Laki-Laki,52,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+305,Perempuan,28,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+306,Perempuan,63,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+307,Perempuan,48,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+308,Laki-Laki,39,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+309,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+310,Perempuan,49,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,40-49
+311,Laki-Laki,76,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+312,Laki-Laki,54,WNI,BANTEN,Dalam Perawatan,,50-59
+313,Laki-Laki,41,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+314,Laki-Laki,33,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,30-39
+315,Laki-Laki,51,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+316,Perempuan,72,WNI,BALI,Dalam Perawatan,,70-79
+317,Perempuan,28,WNI,Tidak diketahui,Dalam Perawatan,,20-29
+318,Perempuan,33,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+319,Perempuan,53,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+320,Laki-Laki,34,WNI,Tidak diketahui,Dalam Perawatan,,30-39
+321,Laki-Laki,23,WNI,Tidak diketahui,Dalam Perawatan,,20-29
+322,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+323,Laki-Laki,35,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+324,Perempuan,37,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,30-39
+325,Perempuan,38,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,30-39
+326,Perempuan,37,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,30-39
+327,Perempuan,48,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,40-49
+328,Laki-Laki,47,WNI,Tidak diketahui,Dalam Perawatan,,40-49
+329,Perempuan,62,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+330,Perempuan,53,WNI,Tidak diketahui,Dalam Perawatan,,50-59
+331,Laki-Laki,47,WNI,Tidak diketahui,Dalam Perawatan,,40-49
+332,Perempuan,67,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+333,Perempuan,50,WNI,BANTEN,Dalam Perawatan,,50-59
+334,Laki-Laki,64,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+335,Perempuan,60,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+336,Perempuan,57,WNI,Tidak diketahui,Dalam Perawatan,,50-59
+337,Perempuan,31,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+338,Laki-Laki,45,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+339,Laki-Laki,55,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+340,Laki-Laki,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+341,Laki-Laki,85,WNI,DKI JAKARTA,Dalam Perawatan,,80-89
+342,Laki-Laki,51,WNI,Tidak diketahui,Dalam Perawatan,,50-59
+343,Perempuan,31,WNI,Tidak diketahui,Dalam Perawatan,,30-39
+344,Laki-Laki,27,WNI,Tidak diketahui,Dalam Perawatan,,20-29
+345,Laki-Laki,39,WNI,BALI,Dalam Perawatan,,30-39
+346,Laki-Laki,34,WNI,KALIMANTAN TIMUR,Dalam Perawatan,,30-39
+347,Laki-Laki,30,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+348,Perempuan,30,WNI,Tidak diketahui,Dalam Perawatan,,30-39
+349,Perempuan,45,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+350,Laki-Laki,31,WNI,JAWA TIMUR,Dalam Perawatan,,30-39
+351,Laki-Laki,31,WNI,JAWA TIMUR,Dalam Perawatan,,30-39
+352,Laki-Laki,30,WNI,JAWA TIMUR,Dalam Perawatan,,30-39
+353,Laki-Laki,58,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+354,Perempuan,38,WNI,JAWA TIMUR,Dalam Perawatan,,30-39
+355,Perempuan,51,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+356,Laki-Laki,0,WNI,BALI,Dalam Perawatan,,0-9
+357,Laki-Laki,51,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+358,Laki-Laki,48,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+359,Laki-Laki,62,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+360,Perempuan,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+361,Perempuan,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+362,Laki-Laki,24,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+363,Perempuan,25,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+364,Laki-Laki,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+365,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+366,Laki-Laki,68,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+367,Laki-Laki,55,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+368,Perempuan,52,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+369,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+370,Laki-Laki,48,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+371,Laki-Laki,48,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+372,Laki-Laki,28,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+373,Laki-Laki,23,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+374,Laki-Laki,49,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+375,Laki-Laki,30,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+376,Laki-Laki,36,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+377,Perempuan,44,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+378,Perempuan,25,WNI,JAWA TIMUR,Dalam Perawatan,,20-29
+379,Laki-Laki,40,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+380,Laki-Laki,49,WNI,JAWA TIMUR,Dalam Perawatan,,40-49
+381,Laki-Laki,35,WNI,JAWA TIMUR,Dalam Perawatan,,30-39
+382,Laki-Laki,34,WNI,JAWA TIMUR,Dalam Perawatan,,30-39
+383,Laki-Laki,38,WNI,JAWA TIMUR,Dalam Perawatan,,30-39
+384,Laki-Laki,55,WNI,DKI JAKARTA,Meninggal,,50-59
+385,Laki-Laki,54,WNI,BANTEN,Dalam Perawatan,,50-59
+386,Perempuan,45,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+387,Laki-Laki,38,WNI,BANTEN,Dalam Perawatan,,30-39
+388,Laki-Laki,76,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+389,Laki-Laki,69,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+390,Perempuan,49,WNI,Tidak diketahui,Dalam Perawatan,,40-49
+391,Perempuan,71,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+392,Laki-Laki,0,WNI,Tidak diketahui,Dalam Perawatan,,0-9
+393,Laki-Laki,63,WNI,JAWA BARAT,Dalam Perawatan,,60-69
+394,Laki-Laki,46,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+395,Laki-Laki,0,WNI,JAWA BARAT,Dalam Perawatan,,0-9
+396,Laki-Laki,50,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+397,Laki-Laki,65,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+398,Perempuan,29,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+399,Laki-Laki,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+400,Laki-Laki,75,WNI,DKI JAKARTA,Dalam Perawatan,,70-79
+401,Laki-Laki,62,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+402,Laki-Laki,45,WNI,JAWA TENGAH,Dalam Perawatan,,40-49
+403,Perempuan,44,WNI,BANTEN,Dalam Perawatan,,40-49
+404,Perempuan,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+405,Laki-Laki,68,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+406,Laki-Laki,53,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+407,Perempuan,31,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+408,Perempuan,53,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+409,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+410,Laki-Laki,40,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+411,Perempuan,?,WNI,DKI JAKARTA,Dalam Perawatan,,?
+412,Laki-Laki,69,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+413,Laki-Laki,59,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+414,Laki-Laki,60,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+415,Laki-Laki,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+416,Laki-Laki,61,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+417,Laki-Laki,53,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+418,Laki-Laki,33,WNI,JAWA BARAT,Dalam Perawatan,,30-39
+419,Laki-Laki,48,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+420,Perempuan,48,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+421,Laki-Laki,47,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+422,Laki-Laki,49,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+423,Laki-Laki,64,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+424,Laki-Laki,55,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+425,Perempuan,65,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+426,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+427,Laki-Laki,49,WNI,DKI JAKARTA,Dalam Perawatan,,40-49
+428,Laki-Laki,29,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+429,Perempuan,25,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+430,Perempuan,21,WNI,DKI JAKARTA,Dalam Perawatan,,20-29
+431,Laki-Laki,53,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+432,Perempuan,52,WNI,JAWA TIMUR,Dalam Perawatan,,50-59
+433,Laki-Laki,34,WNI,Tidak diketahui,Dalam Perawatan,,30-39
+434,Laki-Laki,57,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+435,Laki-Laki,31,WNI,DKI JAKARTA,Dalam Perawatan,,30-39
+436,Laki-Laki,30,WNI,BANTEN,Dalam Perawatan,,30-39
+437,Laki-Laki,52,WNI,BANTEN,Dalam Perawatan,,50-59
+438,Perempuan,54,WNI,BANTEN,Dalam Perawatan,,50-59
+439,Laki-Laki,56,WNI,DKI JAKARTA,Dalam Perawatan,,50-59
+440,Laki-Laki,34,WNI,BANTEN,Dalam Perawatan,,30-39
+441,Perempuan,48,WNI,BANTEN,Dalam Perawatan,,40-49
+442,Laki-Laki,65,WNI,DKI JAKARTA,Dalam Perawatan,,60-69
+443,Laki-Laki,32,WNI,JAWA BARAT,Dalam Perawatan,,30-39
+444,Laki-Laki,53,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+445,Perempuan,53,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+446,Laki-Laki,39,WNI,JAWA BARAT,Dalam Perawatan,,30-39
+447,Laki-Laki,59,WNI,JAWA BARAT,Dalam Perawatan,,50-59
+448,Laki-Laki,47,WNI,JAWA BARAT,Dalam Perawatan,,40-49
+449,Perempuan,30,WNI,DI YOGYAKARTA,Dalam Perawatan,,30-39
+450,Laki-Laki,74,WNI,JAWA TENGAH,Dalam Perawatan,,70-79
